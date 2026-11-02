@@ -362,7 +362,7 @@ a {
             rgba(8, 8, 8, 0.72) 55%,
             rgba(8, 8, 8, 0.15)
         ),
-        url("/assets/images/a1.jpg") center / cover no-repeat;
+        url("../assets/images/a1.jpg") center / cover no-repeat;
 
     box-shadow: var(--gold-glow);
 
